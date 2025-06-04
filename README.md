@@ -4,4 +4,4 @@ Hello from SIUE
 
 ### Some more information
 
-Hello from CS325  dnwaiuodn ioaadwads
+Hello from CS325  dnwaiuo
